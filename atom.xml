@@ -3,11 +3,11 @@
   <title>Grain</title>
   
   
-  <link href="https://www.dgrain.top/atom.xml" rel="self"/>
+  <link href="https://dgrain.gitee.io/atom.xml" rel="self"/>
   
-  <link href="https://www.dgrain.top/"/>
+  <link href="https://dgrain.gitee.io/"/>
   <updated>2021-01-03T07:17:21.809Z</updated>
-  <id>https://www.dgrain.top/</id>
+  <id>https://dgrain.gitee.io/</id>
   
   <author>
     <name>Grain</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>附录B 强制性规范声明（非规范）</title>
-    <link href="https://www.dgrain.top/2021/01/03/08-AppendixB/"/>
-    <id>https://www.dgrain.top/2021/01/03/08-AppendixB/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/08-AppendixB/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/08-AppendixB/</id>
     <published>2021-01-03T07:08:49.646Z</published>
     <updated>2021-01-03T07:17:21.809Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>第七章 一致性 Conformance</title>
-    <link href="https://www.dgrain.top/2021/01/03/07-Conformance/"/>
-    <id>https://www.dgrain.top/2021/01/03/07-Conformance/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/07-Conformance/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/07-Conformance/</id>
     <published>2021-01-03T07:08:49.640Z</published>
     <updated>2021-01-03T07:16:45.743Z</updated>
     
@@ -58,8 +58,8 @@
   
   <entry>
     <title>第六章 使用WebSocket作为网络层</title>
-    <link href="https://www.dgrain.top/2021/01/03/06-WebSocket/"/>
-    <id>https://www.dgrain.top/2021/01/03/06-WebSocket/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/06-WebSocket/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/06-WebSocket/</id>
     <published>2021-01-03T07:08:49.635Z</published>
     <updated>2021-01-03T07:16:18.865Z</updated>
     
@@ -78,8 +78,8 @@
   
   <entry>
     <title>第五章 安全</title>
-    <link href="https://www.dgrain.top/2021/01/03/05-Security/"/>
-    <id>https://www.dgrain.top/2021/01/03/05-Security/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/05-Security/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/05-Security/</id>
     <published>2021-01-03T07:08:49.631Z</published>
     <updated>2021-01-03T07:15:48.955Z</updated>
     
@@ -98,8 +98,8 @@
   
   <entry>
     <title>第四章 操作行为 Operational behavior</title>
-    <link href="https://www.dgrain.top/2021/01/03/04-OperationalBehavior/"/>
-    <id>https://www.dgrain.top/2021/01/03/04-OperationalBehavior/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/04-OperationalBehavior/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/04-OperationalBehavior/</id>
     <published>2021-01-03T07:08:49.625Z</published>
     <updated>2021-01-03T07:15:22.672Z</updated>
     
@@ -118,8 +118,8 @@
   
   <entry>
     <title>3.14 DISCONNECT –断开连接</title>
-    <link href="https://www.dgrain.top/2021/01/03/0314-DISCONNECT/"/>
-    <id>https://www.dgrain.top/2021/01/03/0314-DISCONNECT/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0314-DISCONNECT/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0314-DISCONNECT/</id>
     <published>2021-01-03T07:08:49.620Z</published>
     <updated>2021-01-03T07:26:56.073Z</updated>
     
@@ -138,8 +138,8 @@
   
   <entry>
     <title>3.13 PINGRESP – 心跳响应</title>
-    <link href="https://www.dgrain.top/2021/01/03/0313-PINGRESP/"/>
-    <id>https://www.dgrain.top/2021/01/03/0313-PINGRESP/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0313-PINGRESP/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0313-PINGRESP/</id>
     <published>2021-01-03T07:08:49.614Z</published>
     <updated>2021-01-03T07:26:34.878Z</updated>
     
@@ -158,8 +158,8 @@
   
   <entry>
     <title>3.12 PINGREQ – 心跳请求</title>
-    <link href="https://www.dgrain.top/2021/01/03/0312-PINGREQ/"/>
-    <id>https://www.dgrain.top/2021/01/03/0312-PINGREQ/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0312-PINGREQ/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0312-PINGREQ/</id>
     <published>2021-01-03T07:08:49.609Z</published>
     <updated>2021-01-03T07:26:14.038Z</updated>
     
@@ -178,8 +178,8 @@
   
   <entry>
     <title>3.11 UNSUBACK – 取消订阅确认</title>
-    <link href="https://www.dgrain.top/2021/01/03/0311-UNSUBACK/"/>
-    <id>https://www.dgrain.top/2021/01/03/0311-UNSUBACK/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0311-UNSUBACK/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0311-UNSUBACK/</id>
     <published>2021-01-03T07:08:49.604Z</published>
     <updated>2021-01-03T07:25:48.577Z</updated>
     
@@ -198,8 +198,8 @@
   
   <entry>
     <title>3.10 UNSUBSCRIBE –取消订阅</title>
-    <link href="https://www.dgrain.top/2021/01/03/0310-UNSUBSCRIBE/"/>
-    <id>https://www.dgrain.top/2021/01/03/0310-UNSUBSCRIBE/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0310-UNSUBSCRIBE/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0310-UNSUBSCRIBE/</id>
     <published>2021-01-03T07:08:49.599Z</published>
     <updated>2021-01-03T07:25:31.774Z</updated>
     
@@ -218,8 +218,8 @@
   
   <entry>
     <title>3.9 SUBACK – 订阅确认</title>
-    <link href="https://www.dgrain.top/2021/01/03/0309-SUBACK/"/>
-    <id>https://www.dgrain.top/2021/01/03/0309-SUBACK/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0309-SUBACK/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0309-SUBACK/</id>
     <published>2021-01-03T07:08:49.593Z</published>
     <updated>2021-01-03T07:25:11.944Z</updated>
     
@@ -238,8 +238,8 @@
   
   <entry>
     <title>3.8 SUBSCRIBE - 订阅主题</title>
-    <link href="https://www.dgrain.top/2021/01/03/0308-SUBSCRIBE/"/>
-    <id>https://www.dgrain.top/2021/01/03/0308-SUBSCRIBE/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0308-SUBSCRIBE/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0308-SUBSCRIBE/</id>
     <published>2021-01-03T07:08:49.588Z</published>
     <updated>2021-01-03T07:24:50.229Z</updated>
     
@@ -258,8 +258,8 @@
   
   <entry>
     <title>PUBCOMP – 发布完成（QoS 2，第三步）</title>
-    <link href="https://www.dgrain.top/2021/01/03/0307-PUBCOMP/"/>
-    <id>https://www.dgrain.top/2021/01/03/0307-PUBCOMP/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0307-PUBCOMP/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0307-PUBCOMP/</id>
     <published>2021-01-03T07:08:49.583Z</published>
     <updated>2021-01-03T07:24:23.908Z</updated>
     
@@ -278,8 +278,8 @@
   
   <entry>
     <title>3.6 PUBREL – 发布释放（QoS 2，第二步）</title>
-    <link href="https://www.dgrain.top/2021/01/03/0306-PUBREL/"/>
-    <id>https://www.dgrain.top/2021/01/03/0306-PUBREL/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0306-PUBREL/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0306-PUBREL/</id>
     <published>2021-01-03T07:08:49.578Z</published>
     <updated>2021-01-03T07:23:53.367Z</updated>
     
@@ -298,8 +298,8 @@
   
   <entry>
     <title>PUBREC – 发布收到（QoS 2，第一步）</title>
-    <link href="https://www.dgrain.top/2021/01/03/0305-PUBREC/"/>
-    <id>https://www.dgrain.top/2021/01/03/0305-PUBREC/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0305-PUBREC/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0305-PUBREC/</id>
     <published>2021-01-03T07:08:49.572Z</published>
     <updated>2021-01-03T07:23:35.328Z</updated>
     
@@ -318,8 +318,8 @@
   
   <entry>
     <title>PUBACK –发布确认</title>
-    <link href="https://www.dgrain.top/2021/01/03/0304-PUBACK/"/>
-    <id>https://www.dgrain.top/2021/01/03/0304-PUBACK/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0304-PUBACK/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0304-PUBACK/</id>
     <published>2021-01-03T07:08:49.567Z</published>
     <updated>2021-01-03T07:23:15.482Z</updated>
     
@@ -338,8 +338,8 @@
   
   <entry>
     <title>发布消息</title>
-    <link href="https://www.dgrain.top/2021/01/03/0303-PUBLISH/"/>
-    <id>https://www.dgrain.top/2021/01/03/0303-PUBLISH/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0303-PUBLISH/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0303-PUBLISH/</id>
     <published>2021-01-03T07:08:49.561Z</published>
     <updated>2021-01-03T07:22:52.587Z</updated>
     
@@ -358,8 +358,8 @@
   
   <entry>
     <title>CONNACK – 确认连接请求</title>
-    <link href="https://www.dgrain.top/2021/01/03/0302-CONNACK/"/>
-    <id>https://www.dgrain.top/2021/01/03/0302-CONNACK/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0302-CONNACK/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0302-CONNACK/</id>
     <published>2021-01-03T07:08:49.556Z</published>
     <updated>2021-01-03T07:22:20.051Z</updated>
     
@@ -378,8 +378,8 @@
   
   <entry>
     <title>3.1 CONNECT – 连接服务端</title>
-    <link href="https://www.dgrain.top/2021/01/03/0301-CONNECT/"/>
-    <id>https://www.dgrain.top/2021/01/03/0301-CONNECT/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/0301-CONNECT/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/0301-CONNECT/</id>
     <published>2021-01-03T07:08:49.551Z</published>
     <updated>2021-01-03T07:34:00.664Z</updated>
     
@@ -398,8 +398,8 @@
   
   <entry>
     <title>第三章 MQTT控制报文 MQTT Control</title>
-    <link href="https://www.dgrain.top/2021/01/03/03-ControlPackets/"/>
-    <id>https://www.dgrain.top/2021/01/03/03-ControlPackets/</id>
+    <link href="https://dgrain.gitee.io/2021/01/03/03-ControlPackets/"/>
+    <id>https://dgrain.gitee.io/2021/01/03/03-ControlPackets/</id>
     <published>2021-01-03T07:08:49.545Z</published>
     <updated>2021-01-03T07:14:55.753Z</updated>
     
